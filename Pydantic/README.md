@@ -9,5 +9,5 @@
 1. Create a folder "Pydantic"
 2. Create environment
 3. Install pydantic "pip install pydantic"
->>>>>>> c4b20d8 (My Understanding of Pydantic)
+
 
