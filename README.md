@@ -1,4 +1,4 @@
-## MY AI Learning Journey                                                                                                                                                        Start Date : 25th Oct 2026
+## MY AI Learning Journey                                                                                                                                                       
 
 I am about to start my AI learning journey today. I would like to share my learning plan which I am following. Also, I will keep adding to this repository all the hands-on I am performing
 
