@@ -11,6 +11,7 @@ I am about to start my AI learning journey today. I would like to share my learn
        d) Environment variables - Learn how to dynamically define values for variables that changes based on environment.
        e) Git and Git Hub - Learn how to track changes in code(Git) and store, share, and collaborate on Git repositories online, making software development organized and teamwork-friendly(Git Hub)
        f) Docker basics - Learn what is docker image , container , how to use it , what is the difference between Docker and Virtrual Machine(no practical implementation just theoritical . Practical is planned in future)
+       g) JSON and JSONL files - Learn JSON structure,Serialization and JSON Lines format
 
 ## I will keep on adding topics as and when I progress my learning
 

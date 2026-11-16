@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+pydantic
+fastapi
+uvicorn
+pytest
+httpx
+tenacity
+google-genai
