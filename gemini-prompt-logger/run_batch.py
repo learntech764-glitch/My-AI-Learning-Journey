@@ -11,9 +11,10 @@ from app.metrics import average_latency
 PROMPTS = [
     "What is AI?",
     "What is RAG?",
-    "What are embeddings?",
-    "Explain transformers",
-    "Explain FastAPI"
+        "What are embeddings?",
+        "Explain transformers",
+        "Explain FastAPI"
+    
 ]
 
 

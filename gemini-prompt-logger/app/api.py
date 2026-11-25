@@ -14,7 +14,7 @@ class PromptRequest(
     prompt: str
 
 
-@app.get("/health/ready")
+@app.get("/")
 async def readiness():
     await ask_gemini("Reply with OK.")
     return {"status": "healthy", "gemini": "reachable"}

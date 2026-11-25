@@ -13,6 +13,8 @@ I am about to start my AI learning journey today. I would like to share my learn
        f) Docker basics - Learn what is docker image , container , how to use it , what is the difference between Docker and Virtrual Machine(no practical implementation just theoritical . Practical is planned in future)
        g) JSON and JSONL files - Learn JSON structure,Serialization and JSON Lines format
 
+   # 2. How LLMs Actually work:
+        a) Tokens and tokenization : Learn Tokens,Embeddings,Attention,transformer,temperature,top-k top-p, context window, memory and hallucinations
 ## I will keep on adding topics as and when I progress my learning
 
 

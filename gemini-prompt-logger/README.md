@@ -57,3 +57,17 @@
 
      GEMINI_API_KEY=<your-api--key>
      MODEL_NAME=<your-model>
+
+
+
+## How to run 
+
+pip install -r requirements.txt
+Run Batch Processing
+python run_batch.py
+Start API
+uvicorn app.api:app --reload
+Open
+http://127.0.0.1:8000/docs
+
+pytest -v -s
