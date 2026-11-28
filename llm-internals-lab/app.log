@@ -1,0 +1,24 @@
+2026-11-28 11:14:02,696 - INFO - Application Started
+2026-11-28 11:19:04,690 - INFO - User Query: how llm works
+2026-11-28 11:19:04,854 - INFO - Search completed successfully
+2026-11-28 11:19:04,854 - INFO - Application Closed
+2026-11-28 11:21:13,668 - INFO - Application Started
+2026-11-28 11:21:32,195 - INFO - User Query: how llm works?
+2026-11-28 11:21:32,247 - INFO - 1. Score: 0.1355
+2026-11-28 11:21:32,247 - INFO -    Document: Transformers power large language models
+2026-11-28 11:21:32,247 - INFO - 2. Score: 0.1058
+2026-11-28 11:21:32,247 - INFO -    Document: Cloud computing enables scalability
+2026-11-28 11:21:32,247 - INFO - 3. Score: 0.0457
+2026-11-28 11:21:32,247 - INFO -    Document: AI is transforming healthcare
+2026-11-28 11:21:32,249 - INFO - Search completed successfully
+2026-11-28 11:21:32,249 - INFO - Application Closed
+2026-11-28 11:33:59,270 - INFO - Application Started
+2026-11-28 11:36:25,050 - INFO - User Query: What is Python
+2026-11-28 11:36:25,116 - INFO - 1. Score: 0.6751
+2026-11-28 11:36:25,116 - INFO -    Document: Python is widely used in AI
+2026-11-28 11:36:25,116 - INFO - 2. Score: 0.1102
+2026-11-28 11:36:25,123 - INFO -    Document: Transformers power large language models
+2026-11-28 11:36:25,124 - INFO - 3. Score: 0.0919
+2026-11-28 11:36:25,124 - INFO -    Document: Cloud computing enables scalability
+2026-11-28 11:36:25,124 - INFO - Search completed successfully
+2026-11-28 11:36:25,124 - INFO - Application Closed
